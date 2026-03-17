@@ -34,6 +34,14 @@ public class ArrayLength {
         System.out.println("Total items: " + prices.length); //4
         System.out.println("Total price: " + total); //58.75
 
+        //4.15 - First and last
+        //Hent første og sidste måned.
+        String[] months = {"January", "February", "March", "April", "May"};
+        //First month
+        String firstMonth = months[0];
+        String lastMonth = months[months.length - 1];
+        System.out.println(firstMonth + " & " + lastMonth);
+
 
 
     }
