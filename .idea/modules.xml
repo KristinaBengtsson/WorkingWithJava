@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompositionAndInheritance/CompositionAndInheritance.iml" filepath="$PROJECT_DIR$/CompositionAndInheritance/CompositionAndInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControlStructures/ControlStructures.iml" filepath="$PROJECT_DIR$/ControlStructures/ControlStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objects/Objects.iml" filepath="$PROJECT_DIR$/Objects/Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WorkingWithJava.iml" filepath="$PROJECT_DIR$/.idea/WorkingWithJava.iml" />
     </modules>
